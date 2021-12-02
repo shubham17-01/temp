@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "MERN-Stack-Blog-App",
+			"path": "..\\MERN-Stack-Blog-App"
+		}
+	],
+	"settings": {}
+}
